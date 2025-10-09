@@ -22,13 +22,13 @@ const Personas: React.FC = () => (
             </p>
         </div>
         <div className="mt-20 max-w-6xl mx-auto grid md:grid-cols-3 gap-16">
-            <PersonaCard icon={<IconBook className="w-8 h-8"/>} title="The Novelist">
+            <PersonaCard icon={<ion-icon name="book-outline"></ion-icon>} title="The Novelist">
                Find the deep focus needed to build worlds and characters without the constant pull of the digital world. Your magnum opus deserves a dedicated space.
             </PersonaCard>
-            <PersonaCard icon={<IconRss className="w-8 h-8"/>} title="The Blogger">
+            <PersonaCard icon={<ion-icon name="laptop-outline"></ion-icon>} title="The Blogger">
                 Draft, refine, and polish your posts anywhere inspiration strikes. The tactile keyboard and simple sync make going from idea to published a breeze.
             </PersonaCard>
-            <PersonaCard icon={<IconMicrophone className="w-8 h-8"/>} title="The Journalist">
+            <PersonaCard icon={<ion-icon name="mic-outline"></ion-icon>} title="The Journalist">
                With a long-lasting battery and a screen readable in daylight, it's the perfect field tool for notes, interviews, and on-the-ground reporting.
             </PersonaCard>
         </div>

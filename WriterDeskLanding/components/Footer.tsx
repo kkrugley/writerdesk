@@ -8,19 +8,19 @@ const Footer: React.FC = () => (
             <div className="flex justify-center space-x-6 mb-8">
                 <a href="#" className="text-gray-500 hover:text-gray-800 transition-colors">
                     <span className="sr-only">GitHub</span>
-                    <IconGithub className="w-6 h-6" />
+                    <ion-icon name="logo-github"></ion-icon>
                 </a>
                 <a href="#" className="text-gray-500 hover:text-gray-800 transition-colors">
                     <span className="sr-only">Instagram</span>
-                    <IconInstagram className="w-6 h-6" />
+                    <ion-icon name="logo-instagram"></ion-icon>
                 </a>
                 <a href="#" className="text-gray-500 hover:text-gray-800 transition-colors">
                     <span className="sr-only">YouTube</span>
-                    <IconYoutube className="w-6 h-6" />
+                    <ion-icon name="logo-youtube"></ion-icon>
                 </a>
                 <a href="#" className="text-gray-500 hover:text-gray-800 transition-colors">
                     <span className="sr-only">Mastodon</span>
-                    <IconMastodon className="w-6 h-6" />
+                    <ion-icon name="logo-mastodon"></ion-icon>
                 </a>
             </div>
             <div className="text-center">
