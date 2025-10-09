@@ -1,0 +1,109 @@
+                     WRITERDESK TRADEMARK NOTICE
+                           Version 1.0, 2025
+
+ Copyright (C) 2025  Pavel Kruhlei
+ All rights reserved.
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this trademark notice document, but changing it is not allowed.
+
+
+                            Preamble
+
+  The name "WriterDesk", the WriterDesk logo, and all associated
+visual identity elements (including wordmarks, icons, and distinctive
+product designs) are trademarks of Pavel Kruhlei.
+
+  These trademarks are not covered by the open-source licenses that
+apply to the hardware, software, or documentation of the WriterDesk
+project.  They are retained by Pavel Kruhlei to ensure that the public
+can distinguish the original WriterDesk devices, designs, and software
+from third-party modifications, forks, or derivative works.
+
+  The purpose of this notice is to protect the integrity of the
+WriterDesk name and brand, while allowing the open-source community
+to build upon and improve the project under its free licenses.
+
+
+                       TERMS AND CONDITIONS
+
+  0. Definitions.
+
+  "WriterDesk trademarks" refer to the name "WriterDesk", the
+accompanying logotypes, and any other visual elements uniquely
+associated with the WriterDesk brand.
+
+  "You" means any individual or organization using, distributing,
+or modifying the hardware, software, or documentation of the
+WriterDesk project.
+
+
+  1. Permitted Use.
+
+  You may:
+
+    a) Use the WriterDesk trademarks to truthfully state that your
+    project is "based on WriterDesk" or "compatible with WriterDesk"
+    when describing derivative or related works.
+
+    b) Link to the official WriterDesk project website or repository
+    when referencing or attributing the original source.
+
+
+  2. Prohibited Use.
+
+  You may NOT:
+
+    a) Use the name "WriterDesk", the WriterDesk logo, or any
+    confusingly similar marks to market, sell, or distribute your
+    own products without explicit written permission from
+    Pavel Kruhlei.
+
+    b) Represent your work as being officially endorsed, verified,
+    or produced by Pavel Kruhlei or the WriterDesk project, unless
+    such authorization has been explicitly granted in writing.
+
+    c) Alter or distort the WriterDesk logo or trademarks in any way
+    that could mislead users or misrepresent the project’s origin.
+
+
+  3. Attribution.
+
+  When referring to WriterDesk in documentation, packaging, or online
+content, you must include a clear acknowledgment of the original
+project and its author:
+
+      "Based on the open-source WriterDesk project by Pavel Kruhlei
+       (https://github.com/kkrugley/writerdesk)"
+
+
+  4. Contact and Permissions.
+
+  For inquiries regarding the use of the WriterDesk trademarks, or
+to request permission for branding or co-marketing, please contact:
+
+      Pavel Kruhlei
+      kkrugley@proton.me
+
+  5. Secure Contact and Encryption.
+
+  For private or sensitive inquiries related to the use of the WriterDesk
+trademarks or brand, encrypted communication is recommended.
+
+  You may use the following public PGP key for secure correspondence:
+
+      https://pasza.ru/public-key.asc.txt
+
+  Please include your own public key if a reply is expected.
+
+
+  6. Disclaimer.
+
+  This document does not grant ownership of any trademark, nor does
+it limit the rights granted under the applicable open-source licenses
+for hardware, software, or documentation.  Its sole purpose is to
+clarify the permitted and prohibited uses of the WriterDesk name and
+logo.
+
+
+                     END OF TRADEMARK NOTICE

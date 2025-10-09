@@ -1,0 +1,12 @@
+#  WriterDesk – Open Source Hardware Project
+#  Copyright (C) 2025  Pavel Kruhlei
+#
+#  This design is licensed under the CERN Open Hardware License v2-S (Strongly Reciprocal).
+#  You may redistribute and modify this documentation and design files under the terms
+#  of the CERN-OHL-S.  Any modified versions must remain open and distributed under the same license.
+#
+#  You should have received a copy of the CERN-OHL-S license along with this file.
+#  If not, see <https://gitlab.com/ohwr/project/cernohl/>.
+#
+#  Author: Pavel Kruhlei
+#  Project: WriterDesk

@@ -1,0 +1,68 @@
+                     WRITERDESK LICENSING OVERVIEW
+                           Version 1.0, 2025
+
+ Copyright (C) 2025  Pavel Kruhlei
+ All rights reserved.
+
+ Everyone is permitted to copy and distribute verbatim copies
+ of this document, but changing it is not allowed.
+
+
+                            Preamble
+
+  WriterDesk is an open-source hardware and software project created
+by Pavel Kruhlei.
+
+  This repository contains different components, each released under
+its own open-source license.
+
+
+                       TERMS AND COMPONENTS
+
+  1. Software (code, firmware)
+
+  Licensed under the GNU General Public License v3.0 (GPLv3).
+  You may use, modify, and distribute the software freely, provided
+  that derivative works remain open-source under the same license.
+
+  See <LICENSES/LICENSE_SOFTWARE.txt> for the full license text.
+  More info: <https://www.gnu.org/licenses/gpl-3.0.html>
+
+
+  2. Hardware (mechanical & electronic design)
+
+  Licensed under the CERN Open Hardware License v2 – Strongly
+  Reciprocal (CERN-OHL-S).
+
+  You are free to make, modify, and distribute hardware based on
+  these designs, but must release any modifications under the same
+  license.
+
+  See <LICENSES/LICENSE_HARDWARE.txt> for details.
+  More info: <https://gitlab.com/ohwr/project/cernohl/>
+
+
+  3. Documentation, images & 3D renders
+
+  Licensed under the Creative Commons Attribution–ShareAlike 4.0
+  International License (CC BY-SA 4.0).
+
+  You may share and adapt these materials as long as you credit the
+  author and share derivatives under the same terms.
+
+  See <LICENSES/LICENSE_DOCS.txt>.
+  More info: <https://creativecommons.org/licenses/by-sa/4.0/>
+
+
+  4. Trademarks
+
+  The name "WriterDesk", the logo, and related visual identity
+  elements are trademarks of Pavel Kruhlei.
+
+  You may not use them to promote or sell derivative works without
+  explicit written permission.
+
+  See <LICENSES/TRADEMARK_NOTICE.txt>.
+
+
+                     END OF LICENSE OVERVIEW

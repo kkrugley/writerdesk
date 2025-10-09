@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "api/subscribe.ts": {
+      "runtime": "@vercel/node@3.2.29",
+      "maxDuration": 10
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api"
+    }
+  ]
+}
