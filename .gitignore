@@ -8,7 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # dependencies
-node_modules/
+**/node_modules/
 
 # local env files
 .env
@@ -34,3 +34,18 @@ build/
 
 # vercel
 .vercel
+
+# Orphan Documentation
+*.txt
+*.rtf
+*.pdf
+
+# Excludes
+!LICENSE
+!NOTICE-HARDWARE.txt
+!NOTICE-DOCS.txt
+!NOTICE-SOFTWARE.txt
+!TRADEMARK_NOTICE.txt
+!LICENSE_HARDWARE.txt
+!LICENSE_DOCS.txt
+!LICENSE_SOFTWARE.txt
