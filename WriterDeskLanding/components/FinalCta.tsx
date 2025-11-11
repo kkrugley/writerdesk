@@ -127,6 +127,9 @@ const FinalCta: React.FC<FinalCtaProps> = ({ email, setEmail, formStatus, errorM
                             </button>
                         </div>
                     </div>
+                    <p className="mt-3 text-sm text-gray-500">
+                        No spam. Major updates only.
+                    </p>
                     {formStatus === 'error' && (
                         <p id="email-error" className="mt-2 text-sm text-red-600">{errorMessage}</p>
                     )}

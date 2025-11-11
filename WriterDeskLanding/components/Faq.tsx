@@ -4,26 +4,35 @@ import Section from './Section.tsx';
 
 const faqData = [
     {
-        "q": "How do I sync my files?",
-        "a": "Through our Companion app (Mac/Windows) or via a QR-sequence for quick transfers. Your data stays local and secure."
+        q: "What stage is WriterDesk at right now?",
+        a: "We are currently at the hardware MVP stage: the case and electronics based on ESP32-S3 and RP2040-Zero are assembled, WriterDesk App is installed, and daily testing is underway. The next steps in the roadmap lead toward the final hardware and Companion App 1.0."
     },
     {
-        "q": "Can I use it as an external keyboard?",
-        "a": "Yes, it connects to your PC or Mac via wired or wireless connection, serving as a premium mechanical keyboard."
+        q: "What is included in the current hardware configuration?",
+        a: "The device features a low-profile ortholinear mechanical keyboard, a 5″ IPS 800×480 screen, dual controllers (ESP32-S3 and RP2040-Zero), and a replaceable 10,000 mAh battery for long, uninterrupted writing sessions."
     },
     {
-        "q": "What languages are supported?",
-        "a": "For our initial release, we're focusing on Russian and English, with more languages planned for future updates."
+        q: "How long does WriterDesk run on battery power?",
+        a: "Under typical use with autosave and Markdown rendering, WriterDesk runs for up to 20 hours on a single full charge. The 7.4 V (1P2S) battery is easy to service and replace."
     },
     {
-        "q": "How long does the battery last?",
-        "a": "You can expect up to 10 hours of typical use, perfect for long writing sessions. It also supports Qi wireless charging."
+        q: "How can I transfer my texts to the main computer?",
+        a: "There are two ways to transfer your work: use an encrypted QR sequence for single files, or connect the Companion App via Wi-Fi to manage folders and sync documents both ways."
     },
     {
-        "q": "Is the device repairable?",
-        "a": "Absolutely. It's designed with repairability in mind, using standard components that can be easily sourced and replaced."
+        q: "Can I use WriterDesk as an external keyboard?",
+        a: "Yes. When connected via USB, WriterDesk switches to keyboard mode for Windows, macOS, or Linux and displays time, date, and typing speed on its screen."
+    },
+    {
+        q: "Which languages and autocorrection features are supported?",
+        a: "The interface, keyboard layouts and autocorrection support English, Spanish, German, Polish, and Russian."
+    },
+    {
+        q: "What can the Companion App do?",
+        a: "The Companion App is a cross-platform file manager and editor. It lets you create, rename, and move documents, perform search and replace, view Markdown, and sync seamlessly with WriterDesk without third-party services."
     }
 ];
+
 
 const FaqItem: React.FC<{ item: typeof faqData[0]; isOpen: boolean; onClick: () => void; }> = ({ item, isOpen, onClick }) => (
     <div className="border-b border-gray-300">

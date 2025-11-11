@@ -29,6 +29,7 @@ import Demo from './components/Demo.tsx';
 import Personas from './components/Personas.tsx';
 import SocialProof from './components/SocialProof.tsx';
 import TechnicalOverview from './components/TechnicalOverview.tsx';
+import Roadmap from './components/Roadmap.tsx';
 import Faq from './components/Faq.tsx';
 import FinalCta from './components/FinalCta.tsx';
 import Footer from './components/Footer.tsx';
@@ -107,6 +108,7 @@ const App: React.FC = () => {
                 <Personas />
                 <SocialProof />
                 <TechnicalOverview />
+                <Roadmap />
                 <Faq />
                 <FinalCta
                     email={email}

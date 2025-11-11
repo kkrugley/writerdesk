@@ -12,13 +12,14 @@ const TechnicalOverview: React.FC = () => {
     const [isExpanded, setIsExpanded] = useState(false);
 
     const specs = [
-        { term: "Platform", description: "OrangePi Zero 2W, 2GB RAM" },
-        { term: "OS", description: "Armbian / DietPi + WriterDesk OS" },
-        { term: "Display", description: "5\" IPS 800x480" },
-        { term: "Battery", description: "10000mAh, up to 10h" },
-        { term: "Charging", description: "Qi wireless charging" },
-        { term: "Autocorrect", description: "Hunspell/SymSpell (RU/EN)" },
-        { term: "File transfer", description: "QR sequence, Companion app, Wi-Fi" }
+        { term: "Platform", description: "ESP32-S3 paired with RP2040-Zero for fast keyboard scanning." },
+        { term: "I/O", description: "63-key ortholinear low-profile mechanical keyboard and a 5\" IPS 800×480 display." },
+        { term: "Battery", description: "10 000 mAh 1P2S (7.4 V)" },
+        { term: "Autonomy", description: "Up to 20 hours of typical writing with autosave and spellcheck enabled." },
+        { term: "Autocorrect", description: "SymSpell stack for all supported languages with per-word overrides." },
+        { term: "Connectivity", description: "Acts as a standalone writer or USB keyboard for any PC." },
+        { term: "File transfer", description: "Encrypted QR sequence for single files and Wi‑Fi sync through the WriterDesk Companion App." },
+        { term: "Languages", description: "English, Español, Deutsch, Polski, and Russian" }
     ];
 
     return (

@@ -7,7 +7,7 @@ const Demo: React.FC = () => (
         <div className="text-center max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold tracking-tight text-[#2A2A2A] sm:text-4xl">How It Works</h2>
             <p className="mt-4 text-lg text-gray-600">
-               Enter 'writing only' mode, connect to the Companion app, and export your text. It's that simple.
+               Power on, open WriterDesk App, and let autosave, Markdown rendering, and SeekStorm search handle the writing. Export a single file via encrypted QR sequence or connect the Companion app over Wi‑Fi for full folder sync.
             </p>
         </div>
         <div className="mt-20 max-w-5xl mx-auto">
