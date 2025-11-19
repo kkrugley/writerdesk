@@ -1,0 +1,3 @@
+[submodule "WebDemo"]
+	path = WebDemo
+	url = git@github.com:kkrugley/WriterDeskWebOS.git
